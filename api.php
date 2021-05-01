@@ -1,5 +1,5 @@
 <?php
-/* Made By Pogi */
+
 error_reporting(1);
 
 /* Variables */
@@ -107,7 +107,7 @@ echo '<span class="badge badge-dark">#DEAD</span></span> </span> <span class="ba
 else {
     echo '<span class="badge badge-dark">#DEAD</span></span> </span> <span class="badge badge-dark">'.$lista.'</span> <span class="badge badge-warning"> '.$amount2.' </span>  <span class="badge badge-dark"> '.$err2.' </span></span>  <span class="badge badge-warning"> Pogi</b> </span> </br>';
 }
-/* Made by Pogi */
+
 //echo $respo1;
 //echo $respo2;
 //echo $id;
