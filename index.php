@@ -3,9 +3,11 @@
 <link href="assets/vendors/bootstrap/css/bootstrap.css" rel="stylesheet" id="bootstrap-css">
 <link href="assets/vendors/bootstrap/css/bootstrapogi.css" rel="stylesheet" id="bootstrap-css">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 <title>The Holy Grail</title>
 </head>
-<body style="background-color:#343c4a;">
+<body style="background-color:#343c4a; font-family: 'Poppins', sans-serif;">
 <br><center>
 <div class="col-md-12">
 <div class="card-body" style="background-color:#404552";>
